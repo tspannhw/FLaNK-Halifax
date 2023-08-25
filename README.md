@@ -45,4 +45,10 @@ https://gtfs.halifax.ca/realtime/Vehicle/VehiclePositions.pb
 
 * https://www.sfmta.com/reports/gtfs-transit-data
 
-* 
+
+### Install
+
+https://github.com/MobilityData/gtfs-realtime-bindings/blob/master/python/README.md
+
+pip3 install --upgrade gtfs-realtime-bindings
+
