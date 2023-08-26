@@ -39,6 +39,13 @@ https://gtfs.halifax.ca/realtime/Vehicle/VehiclePositions.pb
 * https://github.com/OneBusAway/onebusaway-gtfs-realtime-trip-updates-producer-demo
 * https://github.com/Cornell-Tech-Urban-Tech-Hub/BusObservatory-Grabber
 * https://github.com/HSLdevcom/transitdata
+* https://github.com/transitland/transitland-atlas
+
+#### Halifax
+
+https://github.com/transitland/transitland-atlas/blob/master/feeds/gtfs.halifax.ca.dmfr.json
+
+https://dmfr.transit.land/json-schema/dmfr.schema-v0.5.0.json
 
 
 #### Other Feeds
