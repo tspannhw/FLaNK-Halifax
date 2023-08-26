@@ -81,6 +81,25 @@ CREATE TABLE public.halifaxlookupstops (
 );
 
 
+-- public.halifaxlookuproutes definition
+
+-- Drop table
+
+-- DROP TABLE public.halifaxlookuproutes;
+
+CREATE TABLE public.halifaxlookuproutes (
+	route_id int4 NOT NULL,
+	agency_id text NULL,
+	route_short_name int4 NULL,
+	route_long_name text NULL,
+	route_desc text NULL,
+	route_type int4 NULL,
+	route_url text NULL,
+	route_color text NULL,
+	route_text_color int4 NULL,
+	CONSTRAINT halifaxlookuproutes_pkey PRIMARY KEY (route_id)
+);
+
 ````
 
 
