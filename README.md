@@ -36,6 +36,7 @@ https://gtfs.halifax.ca/realtime/Vehicle/VehiclePositions.pb
 * https://github.com/BlinkTagInc/gtfs-to-geojson
 * https://gtfs.org/realtime/reference/
 * https://github.com/Bondify/gtfs_functions
+* https://developers.google.com/transit/gtfs-realtime/reference
 * https://github.com/timescale/examples/tree/master/mta
 * https://github.com/OneBusAway/onebusaway-gtfs-realtime-trip-updates-producer-demo
 * https://github.com/Cornell-Tech-Urban-Tech-Hub/BusObservatory-Grabber
