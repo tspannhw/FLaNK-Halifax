@@ -17,6 +17,7 @@ CREATE TABLE public.halifaxlookuproutes (
 	CONSTRAINT halifaxlookuproutes_pkey PRIMARY KEY (route_id)
 );
 
+
 -- public.halifaxlookupstops definition
 
 -- Drop table
@@ -24,18 +25,18 @@ CREATE TABLE public.halifaxlookuproutes (
 -- DROP TABLE public.halifaxlookupstops;
 
 CREATE TABLE public.halifaxlookupstops (
-	stop_id int4 NOT NULL,
-	stop_code int4 NULL,
+	stop_id text NOT NULL,
+	stop_code text NULL,
 	stop_name text NULL,
 	stop_desc text NULL,
-	stop_lat float8 NULL,
-	stop_lon float8 NULL,
+	stop_lat text NULL,
+	stop_lon text NULL,
 	zone_id text NULL,
 	stop_url text NULL,
 	location_type text NULL,
-	parent_station int4 NULL,
+	parent_station text NULL,
 	stop_timezone text NULL,
-	wheelchair_boarding int4 NULL,
+	wheelchair_boarding text NULL,
 	CONSTRAINT halifaxlookupstops_pkey PRIMARY KEY (stop_id)
 );
 
@@ -46,3 +47,5 @@ VALUES('ecrl', 'ecrl', 'ecrl', 'ecrl', NULL, '3', NULL, '000000', '000000');
 
 select * from halifaxlookuproutes where route_id = 'ecrl'
 
+select stop_id, stop_name from halifaxlookupstops h 
+where stop_id = '6000'
