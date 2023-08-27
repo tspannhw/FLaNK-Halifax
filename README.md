@@ -118,3 +118,18 @@ pip3 install --upgrade gtfs-realtime-bindings
 
 
 ````
+
+### Halifax Alerts
+
+````
+
+[{"routeid4":"","routeid5":"","descriptionlang":"en","cause":"CONSTRUCTION","stopid":"6179","alertlang":"en","alerttext":"Stop closure St Margarets Bay Rd Before Sheppards Run (6179) is closed for construction","routeid":"21","effect":"STOP_MOVED","stopid5":"","descriptiontext":"Stop Closure Notice:\r\nRoute: 21 Timberlea Outbound\r\nLocation: St Margarets Bay Rd Before Sheppards Run (6179)\r\nCause:  Stop Closed Construction\r\n\r\nAffected Stops:\r\nSt Margarets Bay Rd Before Sheppards Run (6179)","stopid4":"","activeperiodend":"32503694400","stopid3":"","stopid2":"","routeid2":"","routeid3":"","activeperiodstart":"1668085020","ts":"1693172857104","uuid":"359a677f-7f58-41e8-857b-c9257e608756"}]
+
+````
+
+### Halifax Vehicle Positions
+
+````
+[{"route_id":"5","route_long_name":"Portland","bearing":"90.0","directionid":"","latitude":44.66741,"tripid":"19774411","startdate":"20230827","uuid":"5b11bc27-07eb-49c6-b259-79d2da40ca12","speed":"6.7056","vehiclelabel":"1389","vehicleid":3389.0,"longitude":-63.57438,"timestamp":1693108357,"ts":1693108383603}]
+
+````
