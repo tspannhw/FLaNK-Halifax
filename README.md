@@ -109,3 +109,12 @@ https://github.com/MobilityData/gtfs-realtime-bindings/blob/master/python/README
 
 pip3 install --upgrade gtfs-realtime-bindings
 
+
+### Halifax Updates
+
+````
+
+{"stopsequence":"14","arrivaltime":"1693171354","stopid":"7409","tripid":"19776082","tripstartdate":"20230827","departuretime":"1693171354","triprouteid":"1","ts":"1693170735188","uuid":"f9aabf1b-777d-4ec5-a2b3-c17a10ed6281","route_long_name":"Spring Garden","stop_name":"7409"}
+
+
+````
