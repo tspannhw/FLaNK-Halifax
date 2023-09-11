@@ -34,6 +34,7 @@ https://gtfs.halifax.ca/realtime/Vehicle/VehiclePositions.pb
 * https://medium.com/swlh/python-for-transit-get-the-most-out-of-your-gtfs-with-this-python-package-44d0b732f657
 * https://developers.google.com/transit/gtfs-realtime/examples/python-sample
 * https://github.com/BlinkTagInc/gtfs-to-geojson
+* https://gtfs.org/realtime/feed-entities/trip-updates/
 * https://gtfs.org/realtime/reference/
 * https://github.com/Bondify/gtfs_functions
 * https://developers.google.com/transit/gtfs-realtime/reference
