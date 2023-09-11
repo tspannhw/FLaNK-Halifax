@@ -44,6 +44,7 @@ https://gtfs.halifax.ca/realtime/Vehicle/VehiclePositions.pb
 * https://github.com/HSLdevcom/transitdata
 * https://github.com/transitland/transitland-atlas
 * https://github.com/MobilityData/mobility-database-catalogs
+* https://github.com/CUTR-at-USF/awesome-transit/tree/master
 
 #### Halifax
 
