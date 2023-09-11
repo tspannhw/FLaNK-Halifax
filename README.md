@@ -43,6 +43,7 @@ https://gtfs.halifax.ca/realtime/Vehicle/VehiclePositions.pb
 * https://github.com/Cornell-Tech-Urban-Tech-Hub/BusObservatory-Grabber
 * https://github.com/HSLdevcom/transitdata
 * https://github.com/transitland/transitland-atlas
+* https://github.com/MobilityData/mobility-database-catalogs
 
 #### Halifax
 
