@@ -155,3 +155,8 @@ pip3 install --upgrade gtfs-realtime-bindings
 [{"route_id":"5","route_long_name":"Portland","bearing":"90.0","directionid":"","latitude":44.66741,"tripid":"19774411","startdate":"20230827","uuid":"5b11bc27-07eb-49c6-b259-79d2da40ca12","speed":"6.7056","vehiclelabel":"1389","vehicleid":3389.0,"longitude":-63.57438,"timestamp":1693108357,"ts":1693108383603}]
 
 ````
+
+
+### Hivemetastore
+
+https://docs.cloudera.com/cdp-private-cloud-base/latest/hive-metastore/topics/hive-configure-hms-uri.html
