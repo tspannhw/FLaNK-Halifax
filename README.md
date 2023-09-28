@@ -8,6 +8,10 @@ Community over Code, Apache NiFi, Apache Kafka, Apache Flink, Python, GTFS, Tran
 
 https://data-hrm.hub.arcgis.com/pages/open-data-downloads
 
+https://www.halifax.ca/transportation/halifax-transit
+
+https://www.halifax.ca/transportation/halifax-transit/transit-technology/general-transit-feed-gtfs
+
 
 #### Halifax GTFS Feeds
 
