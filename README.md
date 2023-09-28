@@ -12,6 +12,8 @@ https://www.halifax.ca/transportation/halifax-transit
 
 https://www.halifax.ca/transportation/halifax-transit/transit-technology/general-transit-feed-gtfs
 
+https://twitter.com/hfxtransit
+
 
 #### Halifax GTFS Feeds
 
