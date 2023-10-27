@@ -11,10 +11,8 @@ from collections import OrderedDict
 import datetime
 
 feed = gtfs_realtime_pb2.FeedMessage()
-response = urllib.request.urlopen('https://gtfs.halifax.ca/realtime/TripUpdate/TripUpdates.pb')
+#https://gtfs.halifax.ca/realtime/Vehicle/VehiclePositions.pb
+response = urllib.request.urlopen('https://gtfs.halifax.ca/realtime/Vehicle/VehiclePositions.pb')
 feed.ParseFromString(response.read())
-#for entity in feed.entity:
-#  if entity.HasField('trip_update'):
-#print( entity.trip_update ) 
 json_obj = MessageToJson(feed)
 print(json_obj)
