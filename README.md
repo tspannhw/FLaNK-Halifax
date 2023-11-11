@@ -166,3 +166,13 @@ pip3 install --upgrade gtfs-realtime-bindings
 ### Hivemetastore
 
 https://docs.cloudera.com/cdp-private-cloud-base/latest/hive-metastore/topics/hive-configure-hms-uri.html
+
+
+### Videos
+
+https://www.youtube.com/watch?v=uLk4fTh2sXM
+
+### Slides
+
+https://www.slideshare.net/bunkertor/coc23utilizing-realtime-transit-data-for-travel-optimization
+
